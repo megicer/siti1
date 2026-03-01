@@ -40,3 +40,16 @@ a:hover {
     background-color: black;
     color: white;
 }
+
+.tBari img{
+    height: 400px;
+    width: auto;
+    border: 5px solid brown;
+}
+
+
+.tBari {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
